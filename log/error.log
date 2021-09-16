@@ -1,0 +1,86 @@
+﻿[18-Jun-2014 10:34:47 Asia/Tokyo] PHP Fatal error:  Call to undefined method SMTP::getError() in /home/users/0/main.jp-leadplan/web/leadplan/class.phpmailer.php on line 2375
+[19-Jun-2014 13:50:15 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 49
+[19-Jun-2014 13:50:15 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 51
+[19-Jun-2014 13:50:15 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 52
+[19-Jun-2014 13:50:15 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 53
+[19-Jun-2014 13:50:15 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 54
+[12-Jul-2014 13:54:43 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 1
+[12-Jul-2014 13:54:43 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/0/main.jp-leadplan/web/leadplan/f_DB.php on line 532
+[12-Jul-2014 13:54:43 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/0/main.jp-leadplan/web/leadplan/f_DB.php on line 568
+[19-Aug-2014 18:34:03 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 49
+[19-Aug-2014 18:34:03 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 51
+[19-Aug-2014 18:34:03 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 52
+[19-Aug-2014 18:34:03 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 53
+[19-Aug-2014 18:34:03 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 54
+[19-Aug-2014 18:35:25 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 49
+[19-Aug-2014 18:35:25 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 51
+[19-Aug-2014 18:35:25 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 52
+[19-Aug-2014 18:35:25 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 53
+[19-Aug-2014 18:35:25 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 54
+[28-Aug-2014 13:18:18 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 7
+[28-Aug-2014 13:18:18 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 17
+[28-Aug-2014 13:20:30 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 7
+[28-Aug-2014 13:20:30 Asia/Tokyo] PHP Notice:  Undefined index: list in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 13
+[28-Aug-2014 13:20:30 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 17
+[28-Aug-2014 13:21:14 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 7
+[28-Aug-2014 13:21:14 Asia/Tokyo] PHP Notice:  Undefined index: list in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 13
+[28-Aug-2014 13:21:14 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 17
+[28-Aug-2014 13:22:14 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 7
+[28-Aug-2014 13:22:14 Asia/Tokyo] PHP Notice:  Undefined index: list in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 13
+[28-Aug-2014 13:22:14 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 17
+[28-Aug-2014 13:22:25 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 7
+[28-Aug-2014 13:22:25 Asia/Tokyo] PHP Notice:  Undefined index: list in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 13
+[28-Aug-2014 13:22:25 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 17
+[28-Aug-2014 13:22:36 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 7
+[28-Aug-2014 13:22:36 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 17
+[28-Aug-2014 13:22:50 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 7
+[28-Aug-2014 13:22:50 Asia/Tokyo] PHP Notice:  Undefined index: list in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 13
+[28-Aug-2014 13:22:50 Asia/Tokyo] PHP Notice:  Undefined variable: filename in /home/users/0/main.jp-leadplan/web/leadplan/download_csv.php on line 17
+[02-Oct-2014 15:57:41 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[02-Oct-2014 16:01:08 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[02-Oct-2014 16:05:50 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[02-Oct-2014 16:05:50 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[03-Oct-2014 11:40:26 Asia/Tokyo] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE) in /home/users/0/main.jp-leadplan/web/leadplan/f_SQL.php on line 872
+[25-Dec-2014 11:26:35 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[21-Jul-2015 14:52:50 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[27-Aug-2015 12:52:49 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 1
+[27-Aug-2015 12:52:49 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/0/main.jp-leadplan/web/leadplan/f_DB.php on line 722
+[27-Aug-2015 12:52:49 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/0/main.jp-leadplan/web/leadplan/f_DB.php on line 739
+[27-Nov-2015 15:31:19 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[27-Nov-2015 15:31:56 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[27-Sep-2016 15:12:22 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 1
+[27-Sep-2016 15:12:22 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/0/main.jp-leadplan/web/leadplan/f_DB.php on line 2464
+[27-Sep-2016 15:12:22 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/0/main.jp-leadplan/web/leadplan/f_DB.php on line 2500
+[08-Mar-2017 16:06:33 Asia/Tokyo] PHP Notice:  Undefined index: list in /home/users/0/main.jp-leadplan/web/leadplan/listJump.php on line 66
+[08-Mar-2017 16:06:33 Asia/Tokyo] PHP Notice:  Undefined index: limitstart in /home/users/0/main.jp-leadplan/web/leadplan/listJump.php on line 66
+[08-Mar-2017 16:06:34 Asia/Tokyo] PHP Notice:  Undefined index: list in /home/users/0/main.jp-leadplan/web/leadplan/listJump.php on line 66
+[08-Mar-2017 16:06:34 Asia/Tokyo] PHP Notice:  Undefined index: limitstart in /home/users/0/main.jp-leadplan/web/leadplan/listJump.php on line 66
+[08-Mar-2017 16:06:34 Asia/Tokyo] PHP Notice:  Undefined index: list in /home/users/0/main.jp-leadplan/web/leadplan/listJump.php on line 66
+[08-Mar-2017 16:06:34 Asia/Tokyo] PHP Notice:  Undefined index: limitstart in /home/users/0/main.jp-leadplan/web/leadplan/listJump.php on line 66
+[08-Mar-2017 16:06:35 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/list.php on line 35
+[08-Mar-2017 16:06:35 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_SQL.php on line 204
+[08-Mar-2017 16:06:35 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_SQL.php on line 206
+[08-Mar-2017 16:06:35 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_SQL.php on line 207
+[08-Mar-2017 16:06:35 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_SQL.php on line 255
+[08-Mar-2017 16:06:35 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_SQL.php on line 281
+[08-Mar-2017 16:06:35 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_SQL.php on line 282
+[08-Mar-2017 16:06:35 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_SQL.php on line 283
+[08-Mar-2017 16:06:35 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_DB.php on line 491
+[08-Mar-2017 16:06:35 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[08-Mar-2017 16:06:35 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/0/main.jp-leadplan/web/leadplan/f_DB.php on line 520
+[20-Apr-2018 15:35:10 Asia/Tokyo] PHP Warning:  unlink(./temp/20180420153500_vatlesj1tokup0bllajmj2vdj6_0.pdf): No such file or directory in /home/users/0/main.jp-leadplan/web/leadplan/insertJump.php on line 75
+[02-Sep-2018 17:26:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 49
+[02-Sep-2018 17:26:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 51
+[02-Sep-2018 17:26:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 52
+[02-Sep-2018 17:26:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 53
+[02-Sep-2018 17:26:31 Asia/Tokyo] PHP Notice:  Undefined index:  in /home/users/0/main.jp-leadplan/web/leadplan/f_Button.php on line 54
+[14-Apr-2019 16:23:15 Asia/Tokyo] PHP Warning:  unlink(./temp/20190414162249_22n23cpqm16peihu89a6tnc0s7_0.pdf): No such file or directory in /home/users/0/main.jp-leadplan/web/leadplan/insertJump.php on line 43
+[26-May-2019 17:07:26 Asia/Tokyo] PHP Warning:  unlink(./temp/20190526170711_mppnpf0osec9kbqgptmkr6v2g2_0.pdf): No such file or directory in /home/users/0/main.jp-leadplan/web/leadplan/insertJump.php on line 75
+[07-Nov-2019 15:49:46 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[07-Nov-2019 15:50:53 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[30-Nov-2019 14:21:25 Asia/Tokyo] PHP Notice:  Undefined index: post in /home/users/0/main.jp-leadplan/web/leadplan/set_session.php on line 6
+[25-Jul-2020 13:56:59 Asia/Tokyo] You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '-10,10' at line 1
+[25-Jul-2020 13:56:59 Asia/Tokyo] PHP Notice:  Trying to get property of non-object in /home/users/0/main.jp-leadplan/web/leadplan/f_DB.php on line 532
+[25-Jul-2020 13:56:59 Asia/Tokyo] PHP Fatal error:  Call to a member function fetch_array() on a non-object in /home/users/0/main.jp-leadplan/web/leadplan/f_DB.php on line 568
+[15-Sep-2020 18:50:38 Asia/Tokyo] PHP Warning:  unlink(./temp/20200915185024_3lp7s648p0fg6vtsbe7472faa2_0.pdf): No such file or directory in /home/users/0/main.jp-leadplan/web/leadplan/insertJump.php on line 75
+[09-Oct-2020 11:37:03 Asia/Tokyo] PHP Warning:  unlink(./temp/20201009113649_krgfkdkhq5hpa7oqod4sv899b7_0.pdf): No such file or directory in /home/users/0/main.jp-leadplan/web/leadplan/insertJump.php on line 43
